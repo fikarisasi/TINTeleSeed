@@ -1,0 +1,84 @@
+[ Mon Sep  5 06:20:08 2016 ]=>  Fikar [53692837] has changed group rules to [RULES MAIN WW INDONESIA 🐺
+
+•DIHARAPKAN PEMAIN TERLEBIH DAHULU ADD MODERATOR BOT @werewolfbot 
+
+1. Pemain tidak boleh mengganti NAMA & USERNAME ditengah-tengah permainan.
+
+3. PEMAIN YANG SUDAH MATI TIDAK BOLEH MEMBUKA ROLE PEMAIN YANG MASIH HIDUP !
+
+Pemain yang mati bisa bicara asalkan tidak menghansut dan membuka role atau pemain yang masih hidup!!!
+
+4.
+-Cupid dilarang membuka nama lovers pilihannya
+-Werewolf dan Cultist tidak berkenan menyebutkan teman timnya sendiri sebagai wasiat.
+-Bisa berkhianat asalkan yang dikhianatin bisa terima dan sudah ada kesepakatan
+
+5. Pemain tidak diperkenankan untuk mem-forward/screen capture pesan dari werewolf bot. (boleh copy tapi diharapkan tidak copy seluruh pesan dari werewolf bot)
+
+6. Pemain hanya boleh melakukan PM dengan ketentuan yaitu :
+-Sesama Werewolf
+-Sesama Cultist
+-Sesama Lovers
+-Sesama Mason
+-Beholder > Seer > Detektif > Gunner > GA ,Bisa saling PM
+
+WEREWOLF/CULTIST/SK TIDAK BERKENAN PM KE TEAM VILLAGER, BEGITUPUN SEBALIKNYA!!!!
+
+Ingat !!!! Jangan Sembarang PM ke Pemain lain .
+
+Pemain yang sudah mati tidak diperkenankan PM pemain yang masih hidup, Apabila ketahuan silahkan lapor admin
+
+-Jangan meninggalkan ibadah dan kewajiban lainnya untuk bermain Werewolf di grup ini
+
+Tertanda,
+#admin]
+ 
+[ Mon Sep  5 06:20:20 2016 ]=>  Fikar [53692837] requested group rules
+ 
+[ Mon Sep  5 06:20:53 2016 ]=>  Fikar [53692837] requested group rules
+ 
+[ Mon Sep  5 06:21:35 2016 ]=>  Fikar [53692837] used /id 
+ 
+[ Mon Sep  5 06:22:53 2016 ]=>  Fikar [53692837] requested group settings 
+ 
+[ Mon Sep  5 06:22:57 2016 ]=>  Fikar [53692837] set flood to [20]
+ 
+[ Mon Sep  5 06:23:16 2016 ]=>  Fikar [53692837] requested group rules
+ 
+[ Mon Sep  5 06:28:21 2016 ]=>  Rifky_Sugandi_(GOD) [237581043] requested group rules
+ 
+[ Mon Sep  5 06:30:16 2016 ]=>  Fikar [53692837] has changed group rules to [don't spam]
+ 
+[ Mon Sep  5 06:30:22 2016 ]=>  Fikar [53692837] requested group rules
+ 
+[ Mon Sep  5 06:34:32 2016 ]=>  Fikar [53692837] Used /help
+ 
+[ Mon Sep  5 06:35:19 2016 ]=>  Fikar [53692837] Used /help
+ 
+[ Mon Sep  5 06:39:06 2016 ]=>  Fikar [53692837] promoted @Agam
+ 
+[ Mon Sep  5 06:39:19 2016 ]=>  Fikar [53692837] promoted @Agam
+ 
+[ Mon Sep  5 06:40:01 2016 ]=>  Fikar [53692837] requested group modlist
+ 
+[ Mon Sep  5 06:40:11 2016 ]=>  Fikar [53692837] promoted @@faikarmarzuq
+ 
+[ Mon Sep  5 06:41:06 2016 ]=>  Fikar [53692837] requested group modlist
+ 
+[ Mon Sep  5 06:43:15 2016 ]=>  Fikar [53692837] has changed group rules to [sesuatu]
+ 
+[ Mon Sep  5 06:43:19 2016 ]=>  Fikar [53692837] has changed group rules to [sesuatu]
+ 
+[ Mon Sep  5 06:43:48 2016 ]=>  Faikar_Marzuq [239786279] has changed group rules to [
+1. Dilarang PM jika berbeda tim]
+ 
+[ Mon Sep  5 06:44:00 2016 ]=>  Faikar_Marzuq [239786279] Used /help
+ 
+[ Mon Sep  5 06:44:09 2016 ]=>  Fikar [53692837] requested group rules
+ 
+[ Mon Sep  5 06:45:03 2016 ]=>  Fikar [53692837] requested member list in a file
+ 
+[ Mon Sep  5 06:45:24 2016 ]=>  Fikar [53692837] promoted @169624224
+ 
+[ Mon Sep  5 06:46:29 2016 ]=>  Fikar [53692837] requested group rules
+ 
